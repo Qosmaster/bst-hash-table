@@ -1,0 +1,32 @@
+Elements: 100
+Total time in milliseconds:
+BST insert: 8.8091
+BST search: 0.0717
+BST found: 100
+BST delete: 0.0988
+Hash insert: 0.2495
+Hash search: 0.0575
+Hash found: 100
+Hash delete: 0.0617
+
+Elements: 1000
+Total time in milliseconds:
+BST insert: 0.277
+BST search: 0.2231
+BST found: 1000
+BST delete: 0.2403
+Hash insert: 0.5744
+Hash search: 0.3278
+Hash found: 1000
+Hash delete: 0.4074
+
+Elements: 10000
+Total time in milliseconds:
+BST insert: 2.7247
+BST search: 2.3992
+BST found: 10000
+BST delete: 2.9032
+Hash insert: 2.6111
+Hash search: 1.8714
+Hash found: 10000
+Hash delete: 1.876
